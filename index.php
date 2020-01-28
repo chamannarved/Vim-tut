@@ -11,5 +11,18 @@
 	    is written in Vim text editor 
             (Programmers text editor).
 	</p>
+
+        <h2>Basic commands:</h2>
+        <p>Navigatin keys:-</p>
+        <br>
+	<pre>
+                  ^
+                  k
+            < h       l >
+                  j
+                  \/
+ 
+	</pre>
+
     </body>
 </html>
