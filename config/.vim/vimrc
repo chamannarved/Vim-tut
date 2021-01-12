@@ -1,4 +1,6 @@
+set clipboard = unnamedplus
 filetype plugin indent on
+set path+=**
 syntax on
 set hidden
 set noswapfile
@@ -45,3 +47,4 @@ set incsearch
 """""""""""""""""""""""""""""""""""""
 " show the mathing brackets
 set showmatch
+
